@@ -247,4 +247,4 @@ This repository serves as the official landing page for Apex Legends. The softwa
 **Get the most recent version of Apex Legends today!**
 
 ---
-**Last updated:** 2026-09-12 05:19:37 UTC
+**Last updated:** 2026-09-12 09:57:26 UTC
